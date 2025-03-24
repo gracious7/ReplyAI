@@ -71,5 +71,5 @@ Feel free to fork the repository and submit a pull request with improvements.
 
 ---
 
-🚀 Developed with ❤️ by Krisha Arya
+🚀 Developed with ❤️ by Prince Tripathi
 # ReplyAI
