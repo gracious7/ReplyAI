@@ -8,8 +8,8 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
     chrome.storage.local.get(
       ["linkedinName", "linkedinGender"],
       async (data) => {
-        const myname = data.linkedinName || "Krisha Arya";
-        const gender = data.linkedinGender || "female";
+        const myname = data.linkedinName || "Prince Tripathi";
+        const gender = data.linkedinGender || "male";
         const messages = request.messages.join("\n");
 
         try {
